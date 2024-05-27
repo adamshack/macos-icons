@@ -1,0 +1,36 @@
+# MacOS General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# MacOS Thumbnails
+._*
+
+# MacOS Files that might appear in the root of a volume or remote AFP share
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Xcode
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+.history/
+*.vsix
