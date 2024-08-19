@@ -2,8 +2,8 @@
 
 ## Applications
 
-|       |       |
-| :---: | :---- |
+| Preview | Icon |
+| :-----: | :--- |
 | <img src="img/apps/Mail.iconset/icon_512x512.png" alt="Mail" width="160"> | <a href="icons/apps/Mail.icns" title="Download Mail Icon">Mail</a> |
 | <img src="img/apps/Safari.iconset/icon_512x512.png" alt="Safari" width="160"> | <a href="icons/apps/Safari.icns" title="Download Safari Icon">Safari</a> |
 | <img src="img/apps/Terminal.iconset/icon_512x512.png" alt="Terminal" width="160"> | <a href="icons/apps/Terminal.icns" title="Download Terminal/iTerm Icon">Terminal / iTerm</a> |
@@ -11,8 +11,8 @@
 
 ## Dark-Mode Folders
 
-|       |       |
-| :---: | :---- |
+| Preview | Icon |
+| :-----: | :--- |
 | <img src="img/previews/dark-folders_blank.webp" alt="Blank Folder (Dark-Mode)" width="160"> | <a href="icons/dark-folders/Folder.icns" title="Download Blank Folder Icon (Dark)">Blank Folder</a> |
 | <img src="img/previews/dark-folders_ai.webp" alt="ai (Dark-Mode)" width="160"> | <a href="icons/dark-folders/AI.icns" title="Download AI Folder Icon (Dark)">AI</a> |
 | <img src="img/previews/dark-folders_anaconda.webp" alt="Anaconda (Dark-Mode)" width="160"> | <a href="icons/dark-folders/Anaconda.icns" title="Download Anaconda Folder Icon (Dark)">Anaconda</a> |
@@ -41,8 +41,8 @@
 
 ## Light-Mode Folders
 
-|       |       |
-| :---: | :---- |
+| Preview | Icon |
+| :-----: | :--- |
 | <img src="img/previews/light-folders_ai.webp" alt="ai (Light-Mode)" width="160"> | <a href="icons/light-folders/AI.icns" title="Download AI Folder Icon (Light)">AI</a> |
 | <img src="img/previews/light-folders_anaconda.webp" alt="Anaconda (Light-Mode)" width="160"> | <a href="icons/light-folders/Anaconda.icns" title="Download Anaconda Folder Icon (Light)">Anaconda</a> |
 | <img src="img/previews/light-folders_applications.webp" alt="Applications (Light-Mode)" width="160"> | <a href="icons/light-folders/Applications.icns" title="Download Applications Folder Icon (Light)">Applications</a> |
