@@ -14,13 +14,6 @@ See the [installation instructions](#installation) for changing icons on MacOS [
 
 The folder icons have been optimized for both [Dock](https://support.apple.com/guide/mac-help/use-folders-in-the-dock-mchl231f08fb/mac) & [Finder](https://support.apple.com/guide/mac-help/organize-your-files-in-the-finder-mchlp2605/mac) by using the same rounded rectangle shape as app icons, semi-translucent colors, and a small-scaled version that matches the Finder Sidebar icons.
 
-<img src="img/dark-folders/Applications.iconset/icon_256x256.png" width="128">
-<img src="img/dark-folders/Applications.iconset/icon_128x128.png" width="64">
-<img src="img/dark-folders/Applications.iconset/icon_32x32.png" width="24">
-<img src="img/light-folders/Applications.iconset/icon_256x256.png" width="128">
-<img src="img/light-folders/Applications.iconset/icon_128x128.png" width="64">
-<img src="img/light-folders/Applications.iconset/icon_32x32.png" width="24">
-
 ## Dark-Mode
 
 <a href="icons/dark-folders/AI.icns" title="AI (Dark)"><img src="img/dark-folders/AI.iconset/icon_256x256.png" alt="AI" width="128"/></a>
