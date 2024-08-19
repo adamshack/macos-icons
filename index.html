@@ -20,9 +20,9 @@
             <li class="mockdockIcon"><img src="img/previews/apple_finder_256x256.png" alt="Finder" style="opacity:0.2"/></li>
             <li class="mockdockIcon mailIcon"><a data-icon="Mail" href="#mail"><img src="img/apps/Mail.iconset/icon_512x512.png" alt="Mail" /></a></li>
             <li class="mockdockIcon"><a data-icon="Safari" href="#safari"><img src="img/apps/Safari.iconset/icon_512x512.png" alt="Safari" /></a></li>
-            <li class="mockdockIcon"><a data-icon="VS Code" href="#vscode"><img src="img/apps/VSCode.iconset/icon_512x512.png" alt="VS Code" /></a></li>
             <li class="mockdockIcon"><a data-icon="Terminal" href="#terminal"><img src="img/apps/Terminal.iconset/icon_512x512.png" alt="Terminal" /></a></li>
-            <li class="mockdockIcon"><a data-icon="Folders" href="#darkfolders"><img src="img/dark-folders/Folder.iconset/icon_512x512.png" alt="Dark-Mode Folders" /></a></li>
+            <li class="mockdockIcon"><a data-icon="VS Code" href="#vscode"><img src="img/apps/VSCode.iconset/icon_512x512.png" alt="VS Code" /></a></li>
+            <li class="mockdockIcon"><a data-icon="Folders" href="#folders"><img src="img/dark-folders/Folder.iconset/icon_512x512.png" alt="Dark-Mode Folders" /></a></li>
             <li class="mockdockIcon"><a data-icon="Previews" href="#previews"><img src="img/dark-folders/Pictures.iconset/icon_512x512.png" alt="Previews" /></a></li>
             <li class="mockdockIcon"><a data-icon="Downloads" href="#downloads"><img src="img/dark-folders/Downloads.iconset/icon_512x512.png" alt="Downloads" /></a></li>
             <li class="mockdockIcon"><a data-icon="GitHub" href="https://github.com/adamshack/macos-icons"><img src="img/dark-folders/GitHub.iconset/icon_512x512.png" alt="GitHub" /></a></li>
@@ -60,18 +60,6 @@
         </div>
       </div>
     </div>
-    <div id="vscode" class="section">
-      <div class="layer-base layer-fg2">
-        <div class="appicon">
-          <h3>Visual Studio Code</h3>
-          <img src="img/apps/VSCode.iconset/icon_512x512@2x.png" alt="VSCode Icon" width="512" height="512" />
-          <div class="appiconLinks">
-            <a class="download" href="icons/apps/VSCode.icns" title="Download VSCode Icon"><span>Download Icon</span></a>
-            <a class="git" href="https://github.com/adamshack/macos-icons/blob/main/icons/apps/VSCode.icns" title="Open in GitHub"><span>Open in GitHub</span></a>
-          </div>
-        </div>
-      </div>
-    </div>
     <div id="terminal" class="section">
       <div class="layer-base layer-fg2">
         <div class="appicon">
@@ -84,8 +72,20 @@
         </div>
       </div>
     </div>
+    <div id="vscode" class="section">
+      <div class="layer-base layer-fg2">
+        <div class="appicon">
+          <h3>Visual Studio Code</h3>
+          <img src="img/apps/VSCode.iconset/icon_512x512@2x.png" alt="VSCode Icon" width="512" height="512" />
+          <div class="appiconLinks">
+            <a class="download" href="icons/apps/VSCode.icns" title="Download VSCode Icon"><span>Download Icon</span></a>
+            <a class="git" href="https://github.com/adamshack/macos-icons/blob/main/icons/apps/VSCode.icns" title="Open in GitHub"><span>Open in GitHub</span></a>
+          </div>
+        </div>
+      </div>
+    </div>
 
-    <div id="darkfolders" class="section">
+    <div id="folders" class="section">
       <h2>Folders</h2>
       <div class="layer-base layer-fg2 layer-grid">
         <h3>Folders<span>・Dark</span></h3>
@@ -158,8 +158,9 @@
           <a class="git invert" href="icons/light-folders" title="View All in GitHub"><span>View All in GitHub</span></a>
         </div>
       </div>
-      <div class="layer-base layer-bg2"></div>
       <div class="layer-base layer-bg1"></div>
+      <div class="layer-base layer-bg2"></div>
+      <div class="layer-base layer-bg3"></div>
     </div>
 
     <div id="spacer3" class="section-spacer50"></div>
@@ -178,14 +179,30 @@
           <div id="finder-window-bg"></div>
         </div>
       </div>
-      <div class="layer-base layer-fg1">
-        <div class="title"></div>
+      <div class="layer-base layer-fg4">
+          <img id="preview-dock" src="img/previews/preview_dock.webp" alt="Dock Preview" />        
       </div>
     </div>
 
     <div id="downloads" class="section">
       <h2>Downloads</h2>
       <div class="layer-base layer-fg2">
+        <div id="ql-dl" class="layer-grid">
+          <img src="img/dark-folders/Downloads.iconset/icon_512x512.png" alt="Downloads" width="320px" />
+          <div id="ql-dl-detail">
+            <h4>Downloads</h4>
+            <div id="ql-dl-text">
+              <p>Calculating size...</p>
+              <p>Last modified August 19, 2024 at 12:34:56 AM</p>
+            </div>
+            <div class="appiconLinks">
+              <a class="download" href="https://github.com/adamshack/macos-icons/archive/HEAD.zip" title="Open in GitHub" aria-label="Download All Icons from GitHub"><span>Download All Icons & Images</span></a>
+            </div>
+            <div class="appiconLinks">
+              <a class="git" href="https://github.com/adamshack/macos-icons" title="Open in GitHub" aria-label="Open in GitHub"><span>Open in GitHub</span></a>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="layer-base layer-fg1">
         <div class="title"></div>
