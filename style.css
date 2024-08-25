@@ -21,7 +21,7 @@ body {
     font-weight: 600;
     letter-spacing: 0em;
     color: white;
-    background: black url("img/previews/sample_dark_wallpaper.jpg") no-repeat fixed center;
+    background: black url("img/site/sample_dark_wallpaper.jpg") no-repeat fixed center;
     background-size: cover;
 }
 
@@ -78,7 +78,7 @@ h3 span {
     height: 131px;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url("img/previews/title_applications.svg");
+    background-image: url("img/site/title_applications.svg");
 }
 
 #title-folders {
@@ -86,7 +86,7 @@ h3 span {
     height: 131px;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url("img/previews/title_folders.svg");
+    background-image: url("img/site/title_folders.svg");
 }
 
 .appicon {
