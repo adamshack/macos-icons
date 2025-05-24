@@ -62,9 +62,3 @@ function scaleIcons(x){
   var shift = barLeft + (widthDiff * 0.5);
   dockBg.setAttribute('style','transition: 0s;width:' + totalWidth + 'px;translate:'+ shift +'px');
 }
-
-// window.addEventListener("scroll", function () {
-//   let header = document.getElementById("content");
-//   let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-//   header.style.opacity = 1 - scrollTop / 500;
-// });

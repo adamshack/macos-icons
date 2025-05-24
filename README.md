@@ -10,6 +10,10 @@ See the [installation instructions](#installation) for changing icons on MacOS [
 | :---: | :---: | :---: | :---: |
 | <a href="icons/apps/Mail.icns" title="Download Mail Icon"><img src="img/apps/Mail.iconset/icon_512x512.png" width="144"></a> | <a href="icons/apps/Safari.icns" title="Download Safari Icon"><img src="img/apps/Safari.iconset/icon_512x512.png" width="144"></a> | <a href="icons/apps/Terminal.icns" title="Download Terminal Icon"><img src="img/apps/Terminal.iconset/icon_512x512.png" width="144"></a> | <a href="icons/apps/VSCode.icns" title="Download VS Code Icon"><img src="img/apps/VSCode.iconset/icon_512x512.png" width="144"></a> |
 
+| <a href="icons/apps/VSCodeNoPen.icns" title="Download VS Code (No Pen) Icon">VS Code (Alt)</a> | <a href="icons/apps/iPhoneMirroringDark.icns" title="Download iPhone Mirroring (Dark) Icon">iPhone Mirroring</a> | <a href="icons/apps/iPhoneMirroringLight.icns" title="Download iPhone Mirroring (Light) Icon">iPhone Mirroring</a> |
+| :---: | :---: | :---: |
+| <a href="icons/apps/VSCodeNoPen.icns" title="Download VS Code (No Pen) Icon"><img src="img/apps/VSCodeNoPen.iconset/icon_512x512.png" width="144"></a> | <a href="icons/apps/iPhoneMirroringDark.icns" title="Download iPhone Mirroring (Dark) Icon"><img src="img/apps/iPhoneMirroringDark.iconset/icon_512x512.png" width="144"></a> | <a href="icons/apps/iPhoneMirroringLight.icns" title="Download iPhone Mirroring (Light) Icon"><img src="img/apps/iPhoneMirroringLight.iconset/icon_512x512.png" width="144"></a> |
+
 # Folder Icons
 
 The folder icons have been optimized for both [Dock](https://support.apple.com/guide/mac-help/use-folders-in-the-dock-mchl231f08fb/mac) & [Finder](https://support.apple.com/guide/mac-help/organize-your-files-in-the-finder-mchlp2605/mac) by using the same rounded rectangle shape as app icons, semi-translucent colors, and a small-scaled version that matches the Finder Sidebar icons.
